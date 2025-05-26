@@ -1,9 +1,10 @@
-.App, .App div{
+.App,
+.App div {
   border: 3px solid lightcoral;
   margin: 10px;
 }
 
-.wrapper{
+.wrapper {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }

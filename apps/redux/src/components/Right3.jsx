@@ -1,5 +1,5 @@
-import React from "react";
-import { useDispatch } from "react-redux";
+import React from 'react';
+import { useDispatch } from 'react-redux';
 
 const Right3 = () => {
   const dispatch = useDispatch();
@@ -9,7 +9,7 @@ const Right3 = () => {
       <input
         type="button"
         value="+"
-        onClick={() => dispatch({ type: "PLUS" })}
+        onClick={() => dispatch({ type: 'PLUS' })}
       />
     </div>
   );

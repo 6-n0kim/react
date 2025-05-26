@@ -1,5 +1,5 @@
-import React from "react";
-import Right2 from "./Right2";
+import React from 'react';
+import Right2 from './Right2';
 
 const Right1 = () => {
   return (
